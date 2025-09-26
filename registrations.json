@@ -1,0 +1,57 @@
+{
+  "sri likhitha": {
+    "role": "Student",
+    "full_name": "sri likhitha",
+    "gender": "Female",
+    "email": "srilikhitha127@gmail.com",
+    "mobile": "7207246253",
+    "course": "python",
+    "tests_taken": 2,
+    "tests_history": [
+      {
+        "timestamp": "2025-09-15T08:56:16.346773Z",
+        "category": "General-Purpose Languages",
+        "language": "Python",
+        "level_scores": {
+          "Easy": 0,
+          "Medium": 0,
+          "Hard": 0
+        },
+        "average_percent": 0.0
+      },
+      {
+        "timestamp": "2025-09-15T11:42:11.555767Z",
+        "category": "General-Purpose Languages",
+        "language": "Python",
+        "level_scores": {
+          "Easy": 3,
+          "Medium": 0,
+          "Hard": 0
+        },
+        "average_percent": 7.5
+      }
+    ]
+  },
+  "bhavitha": {
+    "role": "Student",
+    "full_name": "bhavitha",
+    "gender": "Female",
+    "email": "kanchanibhavitha@gmail.com",
+    "mobile": "7337430741",
+    "course": "java",
+    "tests_taken": 1,
+    "tests_history": [
+      {
+        "timestamp": "2025-09-26T07:50:41.079733Z",
+        "category": "General-Purpose Languages",
+        "language": "Python",
+        "level_scores": {
+          "Easy": 1,
+          "Medium": 0,
+          "Hard": 0
+        },
+        "average_percent": 2.5
+      }
+    ]
+  }
+}
